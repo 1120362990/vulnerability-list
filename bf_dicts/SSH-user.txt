@@ -1,0 +1,6 @@
+root
+mysql
+oracle
+test
+user
+guest

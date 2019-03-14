@@ -1,0 +1,7 @@
+desc
+ftp
+root
+anonymous
+guest
+Administrator
+user

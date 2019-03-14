@@ -1,0 +1,15 @@
+Administrator
+root
+test
+system
+admin
+administrator
+guest
+ftp
+user
+guest
+sa
+manager
+lp
+sys
+adm

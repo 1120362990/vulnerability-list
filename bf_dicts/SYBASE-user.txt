@@ -1,0 +1,15 @@
+admin
+Mon_user
+Dba
+entldbdbo
+entldbreader
+jagadmin
+PlAdmin
+pkiuser
+PortalAdmin
+pso
+dbo
+probe
+sybmail
+test
+sa

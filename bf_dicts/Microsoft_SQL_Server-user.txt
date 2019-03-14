@@ -1,0 +1,10 @@
+sa
+probe
+repl_publisher
+repl_subscriber
+distributor_admin
+admin
+Administrator
+guest
+test
+root
